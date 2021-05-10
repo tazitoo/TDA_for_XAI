@@ -1,0 +1,10 @@
+numpy
+pandas
+lime
+shap
+pot
+
+# git clone and install 
+https://github.com/MathieuCarriere/sklearn-tda
+https://github.com/MathieuCarriere/statmapper
+synthetic_data
